@@ -1,0 +1,15 @@
+{
+  "name": "mp3recorder.js",
+  "version": "1.0.0",
+  "description": "simple utility for generating a mp3 file",
+  "main": "mp3Recorder.js",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+  
+}
