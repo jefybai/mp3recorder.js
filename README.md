@@ -1,7 +1,9 @@
 # mp3recorder.js
 mp3 recorder tool using a worker for encoding into mp3 format
-<b>Object<b>
+<b>Object</b>
+<pre>
 var r= new Recorder(options) where options is object setting possible events
+</pre>
 <b>Api</b>
 <pre>
 pause: to pause the recorder
